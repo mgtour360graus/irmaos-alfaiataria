@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour apprev="21009" appversion="7.1.10" start="node1" hassounds="0">
+  <panorama id="node1">
+    <input levelingpitch="0" leveltilesize="510" levelbiashidpi="1.000" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" height="3000" overlap="1" levelingroll="0" levelbias="0.400" width="3000">
+      <level predecode="0" preload="0" width="3000" height="3000"/>
+      <level predecode="0" preload="0" width="1500" height="1500"/>
+      <level predecode="0" preload="0" width="750" height="750"/>
+      <level predecode="1" preload="1" width="375" height="375"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="9.15566">
+      <start tilt="0.118862" fov="129.808" pan="2.53504" projection="4"/>
+      <flyin tilt="-90" fov="170" pan="0" projection="9"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max fovfisheye="360" tilt="90" fovstereographic="330" scaletofit="1" fov="140" pan="360"/>
+    </view>
+    <userdata heading="9.15566" description="Irmãos Alfaiataria | Traje Masculino em Rio Grande" comment="" datetime="" streetviewlink="https://www.google.com/maps/@-32.0324368,-52.0959531,3a,75y,7.26h,90t/data=!3m4!1e1!3m2!1sCIABIhAMRqwk8XLdj9DaxohVRUtP!2e10" title="Irmãos Alfaiataria | Traje Masculino em Rio Grande" longitude="-52.09595313" tags="EDITADAS" latitude="-32.03243682" nodeid="node1" source="" info="" author="" customnodeid="" copyright=""/>
+    <hotspots wordwrap="1" smoothmovement="0" width="180" height="20">
+      <label wordwrap="1" enabled="1" height="20" bordercolor="0x000000" border="1" textcolor="0x000000" backgroundcolor="0xffffff" backgroundalpha="1" background="1" textalpha="1" borderalpha="1" width="180" borderradius="1"/>
+      <polystyle mode="0" bordercolor="0x0000ff" backgroundcolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" borderalpha="1"/>
+      <hotspot skinid="ht_node" tilt="0" description="" pan="2.38804" id="Point01" title="Irmãos Alfaiataria | Traje Masculino em Rio Grande" distance="7.51129" url="{node2}" target="$fwd"/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" enabled="1" zoomoutpause="1" zoomafteroutfov="40" zoomout="0" delay="none" zoomafterinfov="140" blendtime="1" type="crossdissolve" zoomspeed="2" zoomfov="40" blendcolor="0x000000" softedge="0"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01" clipsrandom="0"/>
+    <control sensitivity="8" zoomcentercursor="1" lockedmouse="0" contextprojections="0" simulatemass="1" lockedkeyboard="0" invertwheel="0" lockedkeyboardzoom="0" rubberband="0" lockedwheel="0" invertcontrol="1" hideabout="0" contextfullscreen="1" dblclickfullscreen="0" contextvr="1" speedwheel="1"/>
+  </panorama>
+  <panorama id="node2">
+    <input levelingpitch="0" leveltilesize="510" levelbiashidpi="1.000" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" height="3000" overlap="1" levelingroll="0" levelbias="0.400" width="3000">
+      <level predecode="0" preload="0" width="3000" height="3000"/>
+      <level predecode="0" preload="0" width="1500" height="1500"/>
+      <level predecode="0" preload="0" width="750" height="750"/>
+      <level predecode="1" preload="1" width="375" height="375"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="-178.152">
+      <start tilt="0" fov="120" pan="-172.397" projection="4"/>
+      <flyin tilt="-90" fov="170" pan="0" projection="9"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max fovfisheye="360" tilt="90" fovstereographic="330" scaletofit="1" fov="140" pan="360"/>
+    </view>
+    <userdata heading="-178.152" description="Irmãos Alfaiataria | Traje Masculino em Rio Grande" comment="" datetime="" streetviewlink="https://www.google.com/maps/@-32.0323697,-52.0959437,3a,75y,354.24h,90t/data=!3m4!1e1!3m2!1sCIABIhBXPOcJE9jgFxBlxvySnplH!2e10" title="Irmãos Alfaiataria | Traje Masculino em Rio Grande" longitude="-52.09594374" tags="EDITADAS" latitude="-32.03236974" nodeid="node2" source="" info="" author="" customnodeid="" copyright=""/>
+    <hotspots wordwrap="1" smoothmovement="0" width="180" height="20">
+      <label wordwrap="1" enabled="1" height="20" bordercolor="0x000000" border="1" textcolor="0x000000" backgroundcolor="0xffffff" backgroundalpha="1" background="1" textalpha="1" borderalpha="1" width="180" borderradius="1"/>
+      <polystyle mode="0" bordercolor="0x0000ff" backgroundcolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" borderalpha="1"/>
+      <hotspot skinid="ht_node" tilt="0" description="" pan="-4.91961" id="Point01" title="Irmãos Alfaiataria | Traje Masculino em Rio Grande" distance="7.51129" url="{node1}" target="$fwd"/>
+      <hotspot skinid="ht_node" tilt="0" description="" pan="-94.8649" id="Point02" title="Irmãos Alfaiataria | Traje Masculino em Rio Grande" distance="4.32817" url="{node3}" target="$fwd"/>
+      <hotspot skinid="ht_node" tilt="0" description="" pan="-183.118" id="Point03" title="Irmãos Alfaiataria | Traje Masculino em Rio Grande" distance="5.8374" url="{node5}" target="$fwd"/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" enabled="1" zoomoutpause="1" zoomafteroutfov="40" zoomout="0" delay="none" zoomafterinfov="140" blendtime="1" type="crossdissolve" zoomspeed="2" zoomfov="40" blendcolor="0x000000" softedge="0"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01" clipsrandom="0"/>
+    <control sensitivity="8" zoomcentercursor="1" lockedmouse="0" contextprojections="0" simulatemass="1" lockedkeyboard="0" invertwheel="0" lockedkeyboardzoom="0" rubberband="0" lockedwheel="0" invertcontrol="1" hideabout="0" contextfullscreen="1" dblclickfullscreen="0" contextvr="1" speedwheel="1"/>
+  </panorama>
+  <panorama id="node3">
+    <input levelingpitch="0" leveltilesize="510" levelbiashidpi="1.000" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" height="3000" overlap="1" levelingroll="0" levelbias="0.400" width="3000">
+      <level predecode="0" preload="0" width="3000" height="3000"/>
+      <level predecode="0" preload="0" width="1500" height="1500"/>
+      <level predecode="0" preload="0" width="750" height="750"/>
+      <level predecode="1" preload="1" width="375" height="375"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="-137.652">
+      <start tilt="0" fov="120" pan="-144.544" projection="4"/>
+      <flyin tilt="-90" fov="170" pan="0" projection="9"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max fovfisheye="360" tilt="90" fovstereographic="330" scaletofit="1" fov="140" pan="360"/>
+    </view>
+    <userdata heading="-137.652" description="Irmãos Alfaiataria | Traje Masculino em Rio Grande" comment="" datetime="" streetviewlink="https://www.google.com/maps/@-32.0323652,-52.0959893,3a,75y,6.89h,90t/data=!3m4!1e1!3m2!1sCIABIhBUou0WVk2ug5q4-zuzqtAY!2e10" title="Irmãos Alfaiataria | Traje Masculino em Rio Grande" longitude="-52.09598934" tags="EDITADAS" latitude="-32.03236519" nodeid="node3" source="" info="" author="" customnodeid="" copyright=""/>
+    <hotspots wordwrap="1" smoothmovement="0" width="180" height="20">
+      <label wordwrap="1" enabled="1" height="20" bordercolor="0x000000" border="1" textcolor="0x000000" backgroundcolor="0xffffff" backgroundalpha="1" background="1" textalpha="1" borderalpha="1" width="180" borderradius="1"/>
+      <polystyle mode="0" bordercolor="0x0000ff" backgroundcolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" borderalpha="1"/>
+      <hotspot skinid="ht_node" tilt="0" description="" pan="-234.365" id="Point01" title="Irmãos Alfaiataria | Traje Masculino em Rio Grande" distance="4.32817" url="{node2}" target="$fwd"/>
+      <hotspot skinid="ht_node" tilt="0" description="" pan="-141.907" id="Point02" title="Irmãos Alfaiataria | Traje Masculino em Rio Grande" distance="5.95868" url="{node4}" target="$fwd"/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" enabled="1" zoomoutpause="1" zoomafteroutfov="40" zoomout="0" delay="none" zoomafterinfov="140" blendtime="1" type="crossdissolve" zoomspeed="2" zoomfov="40" blendcolor="0x000000" softedge="0"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01" clipsrandom="0"/>
+    <control sensitivity="8" zoomcentercursor="1" lockedmouse="0" contextprojections="0" simulatemass="1" lockedkeyboard="0" invertwheel="0" lockedkeyboardzoom="0" rubberband="0" lockedwheel="0" invertcontrol="1" hideabout="0" contextfullscreen="1" dblclickfullscreen="0" contextvr="1" speedwheel="1"/>
+  </panorama>
+  <panorama id="node4">
+    <input levelingpitch="0" leveltilesize="510" levelbiashidpi="1.000" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" height="3000" overlap="1" levelingroll="0" levelbias="0.400" width="3000">
+      <level predecode="0" preload="0" width="3000" height="3000"/>
+      <level predecode="0" preload="0" width="1500" height="1500"/>
+      <level predecode="0" preload="0" width="750" height="750"/>
+      <level predecode="1" preload="1" width="375" height="375"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="-20.4008">
+      <start tilt="0" fov="120" pan="-29.4763" projection="4"/>
+      <flyin tilt="-90" fov="170" pan="0" projection="9"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max fovfisheye="360" tilt="90" fovstereographic="330" scaletofit="1" fov="140" pan="360"/>
+    </view>
+    <userdata heading="-20.4008" description="Irmãos Alfaiataria | Traje Masculino em Rio Grande" comment="" datetime="" streetviewlink="https://www.google.com/maps/@-32.0323117,-52.0959846,3a,75y,9.08h,90t/data=!3m4!1e1!3m2!1sCIABIhArgMluG5YaCiwr5G9ZFszu!2e10" title="Irmãos Alfaiataria | Traje Masculino em Rio Grande" longitude="-52.09598465" tags="EDITADAS" latitude="-32.03231175" nodeid="node4" source="" info="" author="" customnodeid="" copyright=""/>
+    <hotspots wordwrap="1" smoothmovement="0" width="180" height="20">
+      <label wordwrap="1" enabled="1" height="20" bordercolor="0x000000" border="1" textcolor="0x000000" backgroundcolor="0xffffff" backgroundalpha="1" background="1" textalpha="1" borderalpha="1" width="180" borderradius="1"/>
+      <polystyle mode="0" bordercolor="0x0000ff" backgroundcolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" borderalpha="1"/>
+      <hotspot skinid="ht_node" tilt="0" description="" pan="155.344" id="Point01" title="Irmãos Alfaiataria | Traje Masculino em Rio Grande" distance="5.95868" url="{node3}" target="$fwd"/>
+      <hotspot skinid="ht_node" tilt="0" description="" pan="-118.655" id="Point02" title="Irmãos Alfaiataria | Traje Masculino em Rio Grande" distance="4.40731" url="{node5}" target="$fwd"/>
+      <hotspot skinid="ht_node" tilt="0" description="" pan="-27.203" id="Point03" title="Irmãos Alfaiataria | Traje Masculino em Rio Grande" distance="2.67416" url="{node8}" target="$fwd"/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" enabled="1" zoomoutpause="1" zoomafteroutfov="40" zoomout="0" delay="none" zoomafterinfov="140" blendtime="1" type="crossdissolve" zoomspeed="2" zoomfov="40" blendcolor="0x000000" softedge="0"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01" clipsrandom="0"/>
+    <control sensitivity="8" zoomcentercursor="1" lockedmouse="0" contextprojections="0" simulatemass="1" lockedkeyboard="0" invertwheel="0" lockedkeyboardzoom="0" rubberband="0" lockedwheel="0" invertcontrol="1" hideabout="0" contextfullscreen="1" dblclickfullscreen="0" contextvr="1" speedwheel="1"/>
+  </panorama>
+  <panorama id="node5">
+    <input levelingpitch="0" leveltilesize="510" levelbiashidpi="1.000" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg" height="3000" overlap="1" levelingroll="0" levelbias="0.400" width="3000">
+      <level predecode="0" preload="0" width="3000" height="3000"/>
+      <level predecode="0" preload="0" width="1500" height="1500"/>
+      <level predecode="0" preload="0" width="750" height="750"/>
+      <level predecode="1" preload="1" width="375" height="375"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="75.4819">
+      <start tilt="0" fov="120" pan="68.4273" projection="4"/>
+      <flyin tilt="-90" fov="170" pan="0" projection="9"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max fovfisheye="360" tilt="90" fovstereographic="330" scaletofit="1" fov="140" pan="360"/>
+    </view>
+    <userdata heading="75.4819" description="Irmãos Alfaiataria | Traje Masculino em Rio Grande" comment="" datetime="" streetviewlink="https://www.google.com/maps/@-32.0323174,-52.0959384,3a,75y,7.05h,90t/data=!3m4!1e1!3m2!1sCIABIhBNgBHHeMBr0JfSBS0m9yIJ!2e10" title="Irmãos Alfaiataria | Traje Masculino em Rio Grande" longitude="-52.09593838" tags="EDITADAS" latitude="-32.03231744" nodeid="node5" source="" info="" author="" customnodeid="" copyright=""/>
+    <hotspots wordwrap="1" smoothmovement="0" width="180" height="20">
+      <label wordwrap="1" enabled="1" height="20" bordercolor="0x000000" border="1" textcolor="0x000000" backgroundcolor="0xffffff" backgroundalpha="1" background="1" textalpha="1" borderalpha="1" width="180" borderradius="1"/>
+      <polystyle mode="0" bordercolor="0x0000ff" backgroundcolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" borderalpha="1"/>
+      <hotspot skinid="ht_node" tilt="0" description="" pan="250.516" id="Point01" title="Irmãos Alfaiataria | Traje Masculino em Rio Grande" distance="5.8374" url="{node2}" target="$fwd"/>
+      <hotspot skinid="ht_node" tilt="0" description="" pan="157.228" id="Point02" title="Irmãos Alfaiataria | Traje Masculino em Rio Grande" distance="4.40731" url="{node4}" target="$fwd"/>
+      <hotspot skinid="ht_node" tilt="0" description="" pan="70.6038" id="Point03" title="Irmãos Alfaiataria | Traje Masculino em Rio Grande" distance="2.98193" url="{node6}" target="$fwd"/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" enabled="1" zoomoutpause="1" zoomafteroutfov="40" zoomout="0" delay="none" zoomafterinfov="140" blendtime="1" type="crossdissolve" zoomspeed="2" zoomfov="40" blendcolor="0x000000" softedge="0"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01" clipsrandom="0"/>
+    <control sensitivity="8" zoomcentercursor="1" lockedmouse="0" contextprojections="0" simulatemass="1" lockedkeyboard="0" invertwheel="0" lockedkeyboardzoom="0" rubberband="0" lockedwheel="0" invertcontrol="1" hideabout="0" contextfullscreen="1" dblclickfullscreen="0" contextvr="1" speedwheel="1"/>
+  </panorama>
+  <panorama id="node6">
+    <input levelingpitch="-0.13639200000000001" leveltilesize="510" levelbiashidpi="1.000" leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg" height="3000" overlap="1" levelingroll="0.56668399999999997" levelbias="0.400" width="3000">
+      <level predecode="0" preload="0" width="3000" height="3000"/>
+      <level predecode="0" preload="0" width="1500" height="1500"/>
+      <level predecode="0" preload="0" width="750" height="750"/>
+      <level predecode="1" preload="1" width="375" height="375"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="80.7964">
+      <start tilt="0" fov="120" pan="71.2514" projection="4"/>
+      <flyin tilt="-90" fov="170" pan="0" projection="9"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max fovfisheye="360" tilt="90" fovstereographic="330" scaletofit="1" fov="140" pan="360"/>
+    </view>
+    <userdata heading="80.7964" description="Irmãos Alfaiataria | Traje Masculino em Rio Grande" comment="" datetime="" streetviewlink="https://www.google.com/maps/@-32.0322907,-52.0959357,3a,75y,9.55h,90t/data=!3m4!1e1!3m2!1sCIABIhACHAj3JN39lLbksU2cqkfm!2e10" title="Irmãos Alfaiataria | Traje Masculino em Rio Grande" longitude="-52.09593569" tags="EDITADAS" latitude="-32.03229072" nodeid="node6" source="" info="" author="" customnodeid="" copyright=""/>
+    <hotspots wordwrap="1" smoothmovement="0" width="180" height="20">
+      <label wordwrap="1" enabled="1" height="20" bordercolor="0x000000" border="1" textcolor="0x000000" backgroundcolor="0xffffff" backgroundalpha="1" background="1" textalpha="1" borderalpha="1" width="180" borderradius="1"/>
+      <polystyle mode="0" bordercolor="0x0000ff" backgroundcolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" borderalpha="1"/>
+      <hotspot skinid="ht_node" tilt="0" description="" pan="166.58" id="Point01" title="Irmãos Alfaiataria | Traje Masculino em Rio Grande" distance="4.31017" url="{node8}" target="$fwd"/>
+      <hotspot skinid="ht_node" tilt="0" description="" pan="255.918" id="Point02" title="Irmãos Alfaiataria | Traje Masculino em Rio Grande" distance="2.98193" url="{node5}" target="$fwd"/>
+      <hotspot skinid="ht_node" tilt="0" description="" pan="81.5048" id="Point03" title="Irmãos Alfaiataria | Traje Masculino em Rio Grande" distance="5.1843" url="{node7}" target="$fwd"/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" enabled="1" zoomoutpause="1" zoomafteroutfov="40" zoomout="0" delay="none" zoomafterinfov="140" blendtime="1" type="crossdissolve" zoomspeed="2" zoomfov="40" blendcolor="0x000000" softedge="0"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01" clipsrandom="0"/>
+    <control sensitivity="8" zoomcentercursor="1" lockedmouse="0" contextprojections="0" simulatemass="1" lockedkeyboard="0" invertwheel="0" lockedkeyboardzoom="0" rubberband="0" lockedwheel="0" invertcontrol="1" hideabout="0" contextfullscreen="1" dblclickfullscreen="0" contextvr="1" speedwheel="1"/>
+  </panorama>
+  <panorama id="node7">
+    <input levelingpitch="-4.3048099999999998" leveltilesize="510" levelbiashidpi="1.000" leveltileurl="tiles/node7/cf_%c/l_%l/c_%x/tile_%y.jpg" height="3000" overlap="1" levelingroll="-1.4943" levelbias="0.400" width="3000">
+      <level predecode="0" preload="0" width="3000" height="3000"/>
+      <level predecode="0" preload="0" width="1500" height="1500"/>
+      <level predecode="0" preload="0" width="750" height="750"/>
+      <level predecode="1" preload="1" width="375" height="375"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="-138.725">
+      <start tilt="0" fov="120" pan="168.744" projection="4"/>
+      <flyin tilt="-90" fov="170" pan="0" projection="9"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max fovfisheye="360" tilt="90" fovstereographic="330" scaletofit="1" fov="140" pan="360"/>
+    </view>
+    <userdata heading="-138.725" description="Irmãos Alfaiataria | Traje Masculino em Rio Grande" comment="" datetime="" streetviewlink="https://www.google.com/maps/@-32.0322441,-52.0959364,3a,75y,52.53h,90t/data=!3m4!1e1!3m2!1sCIABIhARpfzIYTRNHk5mPVMIfZZu!2e10" title="Irmãos Alfaiataria | Traje Masculino em Rio Grande" longitude="-52.09593637" tags="EDITADAS" latitude="-32.03224410" nodeid="node7" source="" info="" author="" customnodeid="" copyright=""/>
+    <hotspots wordwrap="1" smoothmovement="0" width="180" height="20">
+      <label wordwrap="1" enabled="1" height="20" bordercolor="0x000000" border="1" textcolor="0x000000" backgroundcolor="0xffffff" backgroundalpha="1" background="1" textalpha="1" borderalpha="1" width="180" borderradius="1"/>
+      <polystyle mode="0" bordercolor="0x0000ff" backgroundcolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" borderalpha="1"/>
+      <hotspot skinid="ht_node" tilt="0" description="" pan="-318.017" id="Point01" title="Irmãos Alfaiataria | Traje Masculino em Rio Grande" distance="5.1843" url="{node6}" target="$fwd"/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" enabled="1" zoomoutpause="1" zoomafteroutfov="40" zoomout="0" delay="none" zoomafterinfov="140" blendtime="1" type="crossdissolve" zoomspeed="2" zoomfov="40" blendcolor="0x000000" softedge="0"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01" clipsrandom="0"/>
+    <control sensitivity="8" zoomcentercursor="1" lockedmouse="0" contextprojections="0" simulatemass="1" lockedkeyboard="0" invertwheel="0" lockedkeyboardzoom="0" rubberband="0" lockedwheel="0" invertcontrol="1" hideabout="0" contextfullscreen="1" dblclickfullscreen="0" contextvr="1" speedwheel="1"/>
+  </panorama>
+  <panorama id="node8">
+    <input levelingpitch="-1.5365200000000001" leveltilesize="510" levelbiashidpi="1.000" leveltileurl="tiles/node8/cf_%c/l_%l/c_%x/tile_%y.jpg" height="3000" overlap="1" levelingroll="-0.71163500000000002" levelbias="0.400" width="3000">
+      <level predecode="0" preload="0" width="3000" height="3000"/>
+      <level predecode="0" preload="0" width="1500" height="1500"/>
+      <level predecode="0" preload="0" width="750" height="750"/>
+      <level predecode="1" preload="1" width="375" height="375"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="-173.848">
+      <start tilt="0" fov="120" pan="178.934" projection="4"/>
+      <flyin tilt="-90" fov="170" pan="0" projection="9"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max fovfisheye="360" tilt="90" fovstereographic="330" scaletofit="1" fov="140" pan="360"/>
+    </view>
+    <userdata heading="-173.848" description="Irmãos Alfaiataria | Traje Masculino em Rio Grande" comment="" datetime="" streetviewlink="https://www.google.com/maps/@-32.0322879,-52.0959813,3a,75y,7.22h,90t/data=!3m4!1e1!3m2!1sCIABIhBOGeGBOvSWeXSR7lNYVAqu!2e10" title="Irmãos Alfaiataria | Traje Masculino em Rio Grande" longitude="-52.09598129" tags="EDITADAS" latitude="-32.03228787" nodeid="node8" source="" info="" author="" customnodeid="" copyright=""/>
+    <hotspots wordwrap="1" smoothmovement="0" width="180" height="20">
+      <label wordwrap="1" enabled="1" height="20" bordercolor="0x000000" border="1" textcolor="0x000000" backgroundcolor="0xffffff" backgroundalpha="1" background="1" textalpha="1" borderalpha="1" width="180" borderradius="1"/>
+      <polystyle mode="0" bordercolor="0x0000ff" backgroundcolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" borderalpha="1"/>
+      <hotspot skinid="ht_node" tilt="0" description="" pan="-0.650175" id="Point01" title="Irmãos Alfaiataria | Traje Masculino em Rio Grande" distance="2.67416" url="{node4}" target="$fwd"/>
+      <hotspot skinid="ht_node" tilt="0" description="" pan="-268.064" id="Point02" title="Irmãos Alfaiataria | Traje Masculino em Rio Grande" distance="4.31017" url="{node6}" target="$fwd"/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" enabled="1" zoomoutpause="1" zoomafteroutfov="40" zoomout="0" delay="none" zoomafterinfov="140" blendtime="1" type="crossdissolve" zoomspeed="2" zoomfov="40" blendcolor="0x000000" softedge="0"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01" clipsrandom="0"/>
+    <control sensitivity="8" zoomcentercursor="1" lockedmouse="0" contextprojections="0" simulatemass="1" lockedkeyboard="0" invertwheel="0" lockedkeyboardzoom="0" rubberband="0" lockedwheel="0" invertcontrol="1" hideabout="0" contextfullscreen="1" dblclickfullscreen="0" contextvr="1" speedwheel="1"/>
+  </panorama>
+  <masternode>
+    <userdata title="Irmãos Alfaiataria | Traje Masculino em Rio Grande" tags="" description="" author="" comment="" copyright=""/>
+    <animationsequences>
+      <sequence title="Animation01"/>
+    </animationsequences>
+  </masternode>
+</tour>
